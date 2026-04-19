@@ -17,5 +17,6 @@ It visualizes stock data such as price trends, returns, correlations, and portfo
 - CSS
 - JavaScript
 - Chart.js
-
+Here is the dashboard :
+https://roaring-tapioca-0b52b1.netlify.app/
 
